@@ -8,7 +8,6 @@
   <a href=""> <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
   <a href=""> <img width ='42px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png'> </a>
   <a href=""> <img width ='42px' src ='https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png'> </a>
-  <a href=""> <img width ='42px' src =''> </a>
 </p>
 
 <stats align="center"> My GitHub Stats: </stats>
